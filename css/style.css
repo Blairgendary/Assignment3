@@ -1,0 +1,22 @@
+* { 
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+ }
+
+h1 { 
+font-family: 'Press Start 2P', cursive;
+text-align: center;
+
+ }
+#header { 
+position: fixed;
+padding-top: 5%;
+padding-bottom: 5%;
+background-color: #FFFFFF;
+ }
+
+ .imgStyle:hover {
+ border: solid;
+ color: grey;
+  }
